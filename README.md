@@ -1,4 +1,4 @@
-# resume using html and css
+# Resume using html and css
 <!-- First Modification -->
 Date - 23rd December,2021
 
